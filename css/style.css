@@ -35,12 +35,12 @@ img {
   border: 5px rgb(152,173,166) solid;
 }
 
-.main a {
+a {
   color: #38b;
   text-decoration: none;
 }
 
-.main a:hover {
+a:hover {
   color: #3bf;
 }
 
