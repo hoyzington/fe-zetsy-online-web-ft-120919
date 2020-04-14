@@ -48,6 +48,10 @@ a:hover {
   color: #3bf;
 }
 
+p {
+  color: #555;
+}
+
 #press img {
   border: 5px #ccc solid;
 }
