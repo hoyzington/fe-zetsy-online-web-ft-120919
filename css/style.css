@@ -44,6 +44,10 @@ a h1:hover {
   color: rgb(111,127,122);
 }
 
+.links img {
+  border: 5px #ccc solid;
+}
+
 .links img:hover {
   border: 5px rgb(111,127,122) solid;
 }
