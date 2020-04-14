@@ -18,7 +18,7 @@ h1 {
   font-family: 'Baskerville';
   font-size: 5em;
   margin: 0 0 5px;
-  border: 1px #000 solid;
+  border-bottom: 1px #000 solid;
   padding-bottom: 10px;
 }
 
