@@ -17,9 +17,12 @@ body {
 h1 {
   font-family: 'Baskerville';
   font-size: 5em;
-  color: rgb(152,173,166);
   margin: 0 0 5px;
   padding-bottom: 10px;
+}
+
+h1 a {
+  color: rgb(152,173,166);
 }
 
 h1 a:hover {
