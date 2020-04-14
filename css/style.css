@@ -19,6 +19,7 @@ h1 {
   font-size: 5em;
   color: rgb(152,173,166);
   margin: 0 0 5px;
+  padding-bottom: 10px;
 }
 
 h1 a:hover {
