@@ -51,3 +51,9 @@ a h1:hover {
 .links img:hover {
   border: 5px rgb(111,127,122) solid;
 }
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
