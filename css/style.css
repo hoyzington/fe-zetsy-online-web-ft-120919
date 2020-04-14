@@ -53,7 +53,7 @@ a h1:hover {
 }
 
 footer {
-  position: absolute;
+  position: relative;
   right: 0;
   bottom: 0;
 }
